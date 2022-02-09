@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MVC/.idea/MVC.iml" filepath="$PROJECT_DIR$/../MVC/.idea/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mvc-quizzes/.idea/mvc-quizzes.iml" filepath="$PROJECT_DIR$/../mvc-quizzes/.idea/mvc-quizzes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quizzes/.idea/quizzes.iml" filepath="$PROJECT_DIR$/../quizzes/.idea/quizzes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../laravel/yjLive/.idea/yjLive.iml" filepath="$PROJECT_DIR$/../../laravel/yjLive/.idea/yjLive.iml" />
+    </modules>
+  </component>
+</project>
